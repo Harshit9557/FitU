@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sangeet/constants.dart';
-import 'package:sangeet/screens/bottom_bar/download/drawer/download_screen.dart';
+import 'package:sangeet/screens/bottom_bar/download/download_screen.dart';
 import 'package:sangeet/screens/bottom_bar/download/drawer/feedback_screen.dart';
 import 'package:sangeet/screens/bottom_bar/download/drawer/settings/settings_screen.dart';
 import 'package:sangeet/screens/bottom_bar/online/online.dart';
